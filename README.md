@@ -1,2 +1,2 @@
-# Project_About_gittt
+# Project_About_git
 урок по использованию гита
